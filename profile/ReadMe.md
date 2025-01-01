@@ -1,3 +1,8 @@
+MotoFan.Ru
+==========
+
+A collection of open-source projects by MotoFan.Ru and other developers focuses on hacking various Motorola phones.
+
 * Site: **https://motofan.ru**
 * Forum: **https://forum.motofan.ru**
 * Firmware: **https://firmware.center/firmware/Motorola**
@@ -10,4 +15,4 @@
 
 ## Archived Projects
 
-* **[P2K-ELF-SDK-OLD](https://github.com/MotoFanRu/P2K-ELF-SDK-OLD)**: Older Motorola P2K ELF SDKs and toolchain for Windows and Linux. (Deprecated)
+* **[P2K-ELF-SDK-OLD](https://github.com/MotoFanRu/P2K-ELF-SDK-OLD)**: Older Motorola P2K ELF SDKs and toolchain for Windows and Linux.
